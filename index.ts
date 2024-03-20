@@ -22,5 +22,4 @@ if (answer.operator === "Addition") {
 } else if (answer.operator === "Division") {
   console.log(answer.firstNumber / answer.secondNumber);
 }
-let userName = "Ahmed";
-console.log("Ahmed");
+
